@@ -1,7 +1,7 @@
 # Installation-opencv
 
 1. Edit the environment variables
-"Drive and pathe to opencv" e.g: c:\opencv\build\x64\vc15\bin
+"Drive and path to opencv" e.g: c:\opencv\build\x64\vc15\bin
 
 2. Specify paths for the directories 
 c:\opencv\build\include
