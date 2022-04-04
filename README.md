@@ -4,11 +4,13 @@
 
     -   "Drive and path to opencv" e.g: c:\opencv\build\x64\vc15\bin
 
-2.  Specify paths for the directories 
+2.  Specify paths for the directories in Visual Studio: 
+    Configuration Properties / VC++ Directories
 
-    -   c:\opencv\build\include
-    -   c:\opencv\build\x64\vc15\lib
+    -   Include Directories: c:\opencv\build\include
+    -   Library Directrories: c:\opencv\build\x64\vc15\lib
 
-3. Link library
+3. Specify Link library in Visual Studio: 
+    Configuration Properties / Linker / Input
  
-    -   opencv_world420d.lib
+    -   Additional Dependencies: opencv_world420d.lib
