@@ -1,4 +1,4 @@
-# Installation-opencv
+# Installation-opencv-Visualstudio 2022 and opencv 4.5.5
 
 1. Edit the environment variables
 
