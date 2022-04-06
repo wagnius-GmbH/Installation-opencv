@@ -14,3 +14,5 @@
     Configuration Properties / Linker / Input
  
     -   Additional Dependencies: opencv_world420d.lib
+
+4. run the file "Installation opencv.sln" in Microsoft Visual studio to configure the project settings.
