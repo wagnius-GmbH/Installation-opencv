@@ -1,4 +1,4 @@
-# Installation-opencv-Visualstudio 2022 and opencv 4.5.5
+# Installation-opencv-Visualstudio 2022 and opencv 4.6
 
 1. Edit the environment variables
 
@@ -7,8 +7,8 @@
 2.  Specify paths for the directories in Visual Studio: 
     Configuration Properties / VC++ Directories
 
-    -   Include Directories: c:\opencv\build\include
-    -   Library Directrories: c:\opencv\build\x64\vc15\lib
+    -   Include Directories: e.g. c:\opencv\build\include
+    -   Library Directrories: e.g. c:\opencv\build\x64\vc15\lib
 
 3. Specify Link library in Visual Studio: 
     Configuration Properties / Linker / Input
