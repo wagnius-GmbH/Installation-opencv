@@ -15,6 +15,7 @@ https://www.google.com/search?q=Installation-opencv-Visualstudio+2022+and+opencv
 3. Specify Link library in Visual Studio: 
     Configuration Properties / Linker / Input
  
-    -   Additional Dependencies: opencv_world460d.lib
+    -   Additional Dependencies Debug: opencv_world460d.lib
+    -   Additional Dependencies Releas: opencv_world460.lib 
 
 4. run the file "Installation opencv.sln" in Microsoft Visual studio to configure the project settings.
