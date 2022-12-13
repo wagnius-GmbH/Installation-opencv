@@ -1,4 +1,4 @@
-# Installation-opencv-Visualstudio 2022 and opencv 4.6
+# Installation and configuration of Visualstudio 2022 for opencv 4.6
 all credits to:
 https://www.google.com/search?q=Installation-opencv-Visualstudio+2022+and+opencv&oq=Installation-opencv-Visualstudio+2022+and+opencv&aqs=chrome..69i57.1395j0j15&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:6b508e6d,vid:trXs2r6xSnI
 
