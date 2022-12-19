@@ -8,7 +8,7 @@ int main()
     printf("Hello world\n");
 
     // Read an image.
-    cv::Mat image = cv::imread("G:/Meine Ablage/001_wagnius GmbH/100_Marketing/home page data/Wagnius DE.jpg");
+    cv::Mat image = cv::imread("D:/001_wagnius GmbH/100_Marketing/home page data/Wagnius DE.jpg");
     if (image.empty()) {
         std::cout << "Hey! Can't read the image!" << std::endl;
         system("PAUSE");
